@@ -1,0 +1,10 @@
+name: killerthinking
+version: 1
+
+libraries:
+- name: webpy 
+  version: "0.36"
+- name: lxml
+  version: "2.3.4"
+- name:requests
+  version:"2.11.1"
